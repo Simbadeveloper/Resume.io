@@ -1,3 +1,2 @@
 # personal-website.io
-my personal website
-haloo
+My PERSONAL WEBSITE
