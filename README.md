@@ -1,4 +1,4 @@
-# personal-website.io
+# Personal-website.io
 My PERSONAL WEBSITE
 
 # Welcome
